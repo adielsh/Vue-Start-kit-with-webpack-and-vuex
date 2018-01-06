@@ -1,6 +1,7 @@
 # vue webpack start kit with vuex and more
 
 > A Vue.js project
+> An extention to https://github.com/vuejs-templates/webpack
 
 ## Build Setup
 
