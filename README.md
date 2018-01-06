@@ -2,7 +2,8 @@
 
 > A Vue.js project
 
-> An extention to https://github.com/vuejs-templates/webpack
+> An extention to https://github.com/vuejs-templates/webpack.
+>Its include vuex and more..
 
 ## Build Setup
 
